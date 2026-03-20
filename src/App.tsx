@@ -166,7 +166,7 @@ export const App = () => {
   return (
     <Box sx={{ minHeight: '100vh', bgcolor: '#f7f8fa', p: 3 }}>
       <Typography variant='h4' fontWeight={700} gutterBottom>
-        Flexbox Playground
+        Flexbox CheetSheet
       </Typography>
 
       <Stack direction={{ xs: 'column', md: 'row' }} spacing={3}>
